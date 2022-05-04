@@ -1,0 +1,51 @@
+Gene,Subtype
+PDCD1,Exhaustion marker
+TOX,Exhaustion marker
+CXCL13,Exhaustion marker
+TIGIT,Exhaustion marker
+CTLA4,Exhaustion marker
+TNFRSF9,Exhaustion marker
+HAVCR2,Exhaustion marker
+LAG3,Exhaustion marker
+CST7,Cytokines and Effector molecules
+GZMK,Cytokines and Effector molecules
+GZMA,Cytokines and Effector molecules
+NKG7,Cytokines and Effector molecules
+IFNG,Cytokines and Effector molecules
+PRF1,Cytokines and Effector molecules
+GZMB,Cytokines and Effector molecules
+GNLY,Cytokines and Effector molecules
+CD28,Higher in GZMK+ Tex
+EOMES,Higher in GZMK+ Tex
+CCR5,Higher in GZMK+ Tex
+CCL4,Higher in GZMK+ Tex
+CCL5,Higher in GZMK+ Tex
+CD200R1,Higher in GZMK+ Tex
+TMEM155,Higher in GZMK+ Tex
+CD27,Higher in GZMK+ Tex
+TOX2,Higher in Tex
+TSHZ2,Higher in Tex
+BATF,Higher in Tex
+GEM,Higher in Tex
+CD200,Higher in Tex
+SNX9,Higher in Tex
+ENTPD1,Higher in Tex
+LAYN,Higher in Tex
+ETV1,Higher in Tex
+PRDM1,Higher in Tex
+CSF1,Higher in Tex
+MYO7A,Higher in Tex
+MYO1E,Higher in Tex
+GNG4,Higher in Tex
+BTLA,Higher in TCF7+ Tex
+FOXP3,Higher in TCF7+ Tex
+TNFRSF4,Higher in TCF7+ Tex
+TCF7,Higher in TCF7+ Tex
+EEF1A1,Higher in TCF7+ Tex
+TCF7,Higher in TCF7+ Tex
+EEF1A1,Higher in TCF7+ Tex
+SELL,Higher in TCF7+ Tex
+CCR7,Higher in TCF7+ Tex
+IL6R,Higher in TCF7+ Tex
+IGFBP4,Higher in TCF7+ Tex
+IGFL2,Higher in TCF7+ Tex
