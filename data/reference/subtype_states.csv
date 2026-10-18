@@ -1,0 +1,18 @@
+subtype,state,rationale
+CD8.c01(Tn),naive,naive T cells (trajectory start point)
+CD8.c02(IL7R+ Tm),memory,IL7R+ memory
+CD8.c03(uncharacterized),other,no clear identity in the atlas
+CD8.c04(ZNF683+CXCR6- Tm),memory,circulating memory
+CD8.c05(GZMK+ early Tem),effector_memory,early effector memory
+CD8.c06(GZMK+ Tem),effector_memory,effector memory
+CD8.c07(Temra),effector,terminally differentiated effector memory (re-expressing CD45RA)
+CD8.c08(KIR+EOMES+ NK-like),effector,cytotoxic NK-like (Temra branch)
+CD8.c09(KIR+TXK+ NK-like),effector,cytotoxic NK-like (Temra branch)
+CD8.c10(ZNF683+CXCR6+ Trm),memory,tissue-resident memory
+CD8.c11(GZMK+ Tex),exhausted,progenitor-like exhausted
+CD8.c12(terminal Tex),exhausted,terminally exhausted (trajectory end point)
+CD8.c13(OXPHOS- Tex),exhausted,exhausted with low oxidative phosphorylation
+CD8.c14(TCF7+ Tex),exhausted,TCF7+ progenitor exhausted
+CD8.c15(ISG+ CD8+ T),other,interferon-stimulated; intermediate state
+CD8.c16(Tc17),other,IL-17 producing
+CD8.c17(NME1+ T),other,proliferating / metabolically active

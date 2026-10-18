@@ -1,4 +1,4 @@
-Gene,Subtype
+gene,category
 PDCD1,Exhaustion marker
 TOX,Exhaustion marker
 CXCL13,Exhaustion marker
@@ -40,8 +40,6 @@ GNG4,Higher in Tex
 BTLA,Higher in TCF7+ Tex
 FOXP3,Higher in TCF7+ Tex
 TNFRSF4,Higher in TCF7+ Tex
-TCF7,Higher in TCF7+ Tex
-EEF1A1,Higher in TCF7+ Tex
 TCF7,Higher in TCF7+ Tex
 EEF1A1,Higher in TCF7+ Tex
 SELL,Higher in TCF7+ Tex

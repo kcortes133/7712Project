@@ -1,0 +1,8 @@
+# Core: label_clusters.py, scripts/evaluate.py, scripts/make_figures.py
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.6
+
+# Single-cell input (.h5ad) and per-cell composition (--composition)
+scanpy>=1.9
+anndata>=0.8
